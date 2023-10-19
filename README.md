@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmishra2003&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2003" /> </p>
 
-<p align="left"> <a href="https:/" target="blank"><img src="https://img.shields.io/twitter/follow/__its_akash18?logo=twitter&style=for-the-badge" alt="__its_akash18" /></a> </p>
+
 
 
 - 👯 I’m looking to collaborate on *Ideas of any web dev Project*
