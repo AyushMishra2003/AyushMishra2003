@@ -1,3 +1,5 @@
+![logo](https://github.com/AyushMishra2003/AyushMishra2003/blob/main/img.webp)
+
 <h1 align="center">Hi 👋, I'm Ayush Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right"  src="https://camo.githubusercontent.com/822c8289fb5f69b2bf7b444ead0415b586455abc1179680f128511c367a44003/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"  alt="coding" width="400">
