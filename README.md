@@ -5,9 +5,9 @@
 <img align="right"  src="https://camo.githubusercontent.com/822c8289fb5f69b2bf7b444ead0415b586455abc1179680f128511c367a44003/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966"  alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmishra2003&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmishra2003" /> </p>
 
-- 🔭 I’m currently working on [TheFarmingShip(TrainingandEcommerce)](https://github.com/AyushMishra2003/LMS-SERVER)
+- 🔭 I’m currently working on (Complete Website Dashboard for Developer,admin,operator at Dev India Pvt ltd Compmay)
 
-- 👯 I’m looking to collaborate on [SRT](https://github.com/deep1801/SRT)
+- 👯 I’m looking to collaborate on [Any Idea)
 
 - 💬 Ask me about **web dev,dsa**
 
